@@ -21,7 +21,7 @@ vue create .
   },
 ```
 delete public folder
-
+vue add vuetify
 
 ## Project setup
 ```
